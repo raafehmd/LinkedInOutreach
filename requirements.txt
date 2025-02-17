@@ -1,0 +1,16 @@
+# Core dependencies
+faker==18.9.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+uuid==1.30
+
+# AI & Machine Learning (For GAN-based profile photo generation)
+torch==2.0.1
+torchvision==0.15.2
+numpy==1.24.4
+Pillow==10.2.0
+
+# Web scraping utilities
+lxml==4.9.3
+html5lib==1.1
+selenium==4.10.0  # If using Selenium for better scraping (Optional)
