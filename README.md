@@ -11,8 +11,8 @@ This project automates LinkedIn outreach using AI-generated conversations and re
 
 ## ��� Installation
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/linkedin-outreach-bot.git
-cd linkedin-outreach-bot
+git clone https://github.com/raafehmd/LinkedInOutreach.git
+cd LinkedInOutreach
 python -m venv venv
 source venv/bin/activate  # Mac/Linux
 venv\Scripts\activate  # Windows
